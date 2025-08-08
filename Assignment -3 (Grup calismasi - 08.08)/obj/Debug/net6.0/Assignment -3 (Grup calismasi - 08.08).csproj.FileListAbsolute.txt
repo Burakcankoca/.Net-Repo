@@ -1,0 +1,14 @@
+C:\Users\burak\OneDrive\Masaüstü\BilgeadamBoost\Fatih Alkan Hoca\KD-27\Assignment -3 (Grup calismasi - 08.08)\obj\Debug\net6.0\Assignment -3 (Grup calismasi - 08.08).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\BilgeadamBoost\Fatih Alkan Hoca\KD-27\Assignment -3 (Grup calismasi - 08.08)\obj\Debug\net6.0\Assignment -3 (Grup calismasi - 08.08).AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\BilgeadamBoost\Fatih Alkan Hoca\KD-27\Assignment -3 (Grup calismasi - 08.08)\obj\Debug\net6.0\Assignment -3 (Grup calismasi - 08.08).AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\BilgeadamBoost\Fatih Alkan Hoca\KD-27\Assignment -3 (Grup calismasi - 08.08)\obj\Debug\net6.0\Assignment -3 (Grup calismasi - 08.08).csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\BilgeadamBoost\Fatih Alkan Hoca\KD-27\Assignment -3 (Grup calismasi - 08.08)\bin\Debug\net6.0\Assignment -3 (Grup calismasi - 08.08).exe
+C:\Users\burak\OneDrive\Masaüstü\BilgeadamBoost\Fatih Alkan Hoca\KD-27\Assignment -3 (Grup calismasi - 08.08)\bin\Debug\net6.0\Assignment -3 (Grup calismasi - 08.08).deps.json
+C:\Users\burak\OneDrive\Masaüstü\BilgeadamBoost\Fatih Alkan Hoca\KD-27\Assignment -3 (Grup calismasi - 08.08)\bin\Debug\net6.0\Assignment -3 (Grup calismasi - 08.08).runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\BilgeadamBoost\Fatih Alkan Hoca\KD-27\Assignment -3 (Grup calismasi - 08.08)\bin\Debug\net6.0\Assignment -3 (Grup calismasi - 08.08).dll
+C:\Users\burak\OneDrive\Masaüstü\BilgeadamBoost\Fatih Alkan Hoca\KD-27\Assignment -3 (Grup calismasi - 08.08)\bin\Debug\net6.0\Assignment -3 (Grup calismasi - 08.08).pdb
+C:\Users\burak\OneDrive\Masaüstü\BilgeadamBoost\Fatih Alkan Hoca\KD-27\Assignment -3 (Grup calismasi - 08.08)\obj\Debug\net6.0\Assignment -3 (Grup calismasi - 08.08).dll
+C:\Users\burak\OneDrive\Masaüstü\BilgeadamBoost\Fatih Alkan Hoca\KD-27\Assignment -3 (Grup calismasi - 08.08)\obj\Debug\net6.0\refint\Assignment -3 (Grup calismasi - 08.08).dll
+C:\Users\burak\OneDrive\Masaüstü\BilgeadamBoost\Fatih Alkan Hoca\KD-27\Assignment -3 (Grup calismasi - 08.08)\obj\Debug\net6.0\Assignment -3 (Grup calismasi - 08.08).pdb
+C:\Users\burak\OneDrive\Masaüstü\BilgeadamBoost\Fatih Alkan Hoca\KD-27\Assignment -3 (Grup calismasi - 08.08)\obj\Debug\net6.0\Assignment -3 (Grup calismasi - 08.08).genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\BilgeadamBoost\Fatih Alkan Hoca\KD-27\Assignment -3 (Grup calismasi - 08.08)\obj\Debug\net6.0\ref\Assignment -3 (Grup calismasi - 08.08).dll
